@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "The Learning Space",
+  "short_name": "Learning Space",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10283e",
+  "icons": [
+    {
+      "src": "/app-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/app-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
